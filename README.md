@@ -98,7 +98,7 @@ Tinkercad-circuits : (https://www.tinkercad.com/circuits)
 ## Author
 
 - [@saiabhiramjaini](https://github.com/saiabhiramjaini)
-- **Repository :** (https://github.com/saiabhiramjaini/minor_arduino_projects)
+- **Repository :** (https://github.com/saiabhiramjaini/Minor_Arduino_Projects)
 
 
 ## Feedback
