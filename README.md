@@ -90,3 +90,17 @@ Here's how this project operates:
 
 ![smart home appliances](https://github.com/saiabhiramjaini/QRify_ME/assets/115941546/d5eb0a47-102c-4c62-b143-4b29df945ab6)
 
+## Resource link
+Tinkercad-circuits : (https://www.tinkercad.com/circuits)
+
+
+
+## Author
+
+- [@saiabhiramjaini](https://github.com/saiabhiramjaini)
+- **Repository :** (https://github.com/saiabhiramjaini/minor_arduino_projects)
+
+
+## Feedback
+
+If you have any feedback, please reach out me at abhiramjaini28@gmail.com
